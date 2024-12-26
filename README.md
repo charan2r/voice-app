@@ -1,4 +1,4 @@
-This is an Angular web application that integrates with Google's Generative AI for building intelligent applications.
+This Angular web application integrates with Google's Generative AI for building intelligent applications.
 
 ## Usage
 First, add your AI Studio API key in the gemini.service file:
